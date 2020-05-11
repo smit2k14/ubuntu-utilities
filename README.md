@@ -1,9 +1,9 @@
 # Repo made for people who have reinstalled ubuntu due to some major **** ups or installed it for the first time and want to get some of their previous settings back.
 
 
-### Contributions are extremely encouraged. 
+Contributions are extremely encouraged. 
 
-### Usage is obvious, but anyways
+Usage is obvious, but anyways
 
 ```
 git clone https://github.com/smit2k14/ubuntu-utilities
