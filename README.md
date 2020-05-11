@@ -1,4 +1,6 @@
-# Repo made for people who have reinstalled ubuntu due to some major **** ups or installed it for the first time and want to get some of their previous settings back.
+## Ubuntu Basic Requirements
+
+### Repo made for people who have reinstalled ubuntu due to some major **** ups or installed it for the first time and want to get some of their previous settings back.
 
 
 Contributions are extremely encouraged. 
