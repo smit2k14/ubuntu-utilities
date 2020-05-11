@@ -3,4 +3,13 @@
 
 # Contributions are extremely encouraged. 
 
+# Usage is obvious, but anyways
+
+```
+git clone https://github.com/smit2k14/ubuntu-utilities
+cd ubuntu-utilities
+chmod +x ubuntu-utilities.sh
+./ubuntu-utilities.sh
+```
+
 # Cheers!
