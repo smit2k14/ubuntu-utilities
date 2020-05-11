@@ -1,4 +1,4 @@
-## Ubuntu Basic Requirements
+## Ubuntu Basic Requirements after installation
 
 ### Repo made for people who have reinstalled ubuntu due to some major **** ups or installed it for the first time and want to get some of their previous settings back.
 
