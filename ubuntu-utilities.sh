@@ -13,3 +13,6 @@ sudo snap install code --classic
 
 #GNOME Tweak Tool for customization
 sudo apt-get install gnome-tweak-tool
+
+#HTOP
+sudo apt-get install htop
